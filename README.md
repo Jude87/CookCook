@@ -1,6 +1,6 @@
 # CookCook
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/107044598/214267624-982dd442-2642-4c03-90e0-95b8e4f08eb5.png">
+  <img src="https://user-images.githubusercontent.com/107044598/214289986-de6d2f11-96ca-4d04-a85c-a9c4da7b52f9.png">
 </div>
 
 <br>
