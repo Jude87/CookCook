@@ -43,4 +43,5 @@
 
 - ER Diagram
 
-![CookCook_ER_Diagram](https://user-images.githubusercontent.com/107044598/214283605-3083045f-425d-46ee-ba4c-43484ecb6711.png)
+![CookCook_ER_Diagram](https://user-images.githubusercontent.com/107044598/214287109-eb05c3ed-2308-42c1-8f7a-f91e6a654ff9.png)
+
