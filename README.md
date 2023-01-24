@@ -1,5 +1,7 @@
 # CookCook
-<img width="689" alt="화면 캡처 2023-01-23 224140" src="https://user-images.githubusercontent.com/107044598/214267624-982dd442-2642-4c03-90e0-95b8e4f08eb5.png">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/107044598/214267624-982dd442-2642-4c03-90e0-95b8e4f08eb5.png">
+</div>
 
 <hr>
 
