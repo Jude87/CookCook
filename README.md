@@ -40,7 +40,7 @@
   + Application Tool : JSP 3.2
   + Design Tool : BootStrap 4.6.1
   + Library : jQuery 3.4.1
-
+ㅇ
 - ER Diagram
 
 ![CookCook_ER_Diagram](https://user-images.githubusercontent.com/107044598/214287109-eb05c3ed-2308-42c1-8f7a-f91e6a654ff9.png)
@@ -54,10 +54,26 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/107044598/214303946-41210899-c993-42f9-9e0b-e86ad8a8f06b.png">
 </div>
+<br>
 
-- Q&A게시판 글 등록, 수정, 삭제
+- Q&A 게시판 리스트 페이징 처리 및 글 등록, 수정, 삭제 기능
 
 <div align="center">
-  <img src="">
+  <img src="https://user-images.githubusercontent.com/107044598/214463815-1d3b300e-1642-4a42-8529-1a6764d82859.png">
 </div>
+<br>
 
+- Q&A 게시판 상세보기 페이지
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/107044598/214464024-852ed112-4c58-47d8-b6d3-c8679357eb56.jpg">
+  <img src="https://user-images.githubusercontent.com/107044598/214464199-2d2b0f57-f3c6-499a-b0d8-8a4c9b16459d.jpg">
+</div>
+<br>
+
+- 이달의 레시피 게시판 / 사용자가 접속한 해당 월의 좋아요가 가장 많은 순으로 1~3위 표시 기능
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/107044598/214464566-88600d94-128e-4993-9fdb-cb6d48cae17d.png">
+</div>
+<br>
