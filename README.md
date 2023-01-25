@@ -72,7 +72,7 @@
   <img src="https://user-images.githubusercontent.com/107044598/214464024-852ed112-4c58-47d8-b6d3-c8679357eb56.jpg">
   <img src="https://user-images.githubusercontent.com/107044598/214464199-2d2b0f57-f3c6-499a-b0d8-8a4c9b16459d.jpg">
 </div>
-<br>
+<br><br>
 
 - 이달의 레시피 게시판
   + 사용자가 접속한 해당 월의 좋아요가 가장 많은 순으로 1~3위 표시 기능
