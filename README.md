@@ -51,6 +51,13 @@
 
 - 프로젝트 주제 선정 및 미팅 주관, 유스케이스 다이어그램 작성
 
-![CookCook_유스케이스_다이어그램](https://user-images.githubusercontent.com/107044598/214303946-41210899-c993-42f9-9e0b-e86ad8a8f06b.png)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/107044598/214303946-41210899-c993-42f9-9e0b-e86ad8a8f06b.png">
+</div>
 
+- Q&A게시판 글 등록, 수정, 삭제
+
+<div align="center">
+  <img src="">
+</div>
 
