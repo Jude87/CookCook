@@ -40,7 +40,7 @@
   + Application Tool : JSP 3.2
   + Design Tool : BootStrap 4.6.1
   + Library : jQuery 3.4.1
-ㅇ
+
 - ER Diagram
 
 ![CookCook_ER_Diagram](https://user-images.githubusercontent.com/107044598/214287109-eb05c3ed-2308-42c1-8f7a-f91e6a654ff9.png)
@@ -81,3 +81,6 @@
   <img src="https://user-images.githubusercontent.com/107044598/214464566-88600d94-128e-4993-9fdb-cb6d48cae17d.png">
 </div>
 <br>
+
+<hr>
+# 읽어주셔서 감사합니다.
