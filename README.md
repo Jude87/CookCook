@@ -75,7 +75,7 @@
 <br><br>
 
 - 이달의 레시피 게시판
-  + 사용자가 접속한 해당 월의 좋아요가 가장 많은 순으로 1~3위 표시 기능
+  + 사용자가 접속한 해당 월의 좋아요가 가장 많은 레시피의 순위(1~3위) 표시
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/107044598/214464566-88600d94-128e-4993-9fdb-cb6d48cae17d.png">
