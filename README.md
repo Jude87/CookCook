@@ -56,7 +56,9 @@
 </div>
 <br>
 
-- Q&A 게시판 리스트 페이징 처리 및 글 등록, 수정, 삭제 기능
+- Q&A 게시판 리스트 페이지
+  + 게시글 리스트 페이징 처리
+  + 글 등록, 수정, 삭제
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/107044598/214463815-1d3b300e-1642-4a42-8529-1a6764d82859.png">
@@ -64,6 +66,7 @@
 <br>
 
 - Q&A 게시판 상세보기 페이지
+  + 로그인 유저 댓글 등록, 수정, 삭제
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/107044598/214464024-852ed112-4c58-47d8-b6d3-c8679357eb56.jpg">
@@ -71,7 +74,8 @@
 </div>
 <br>
 
-- 이달의 레시피 게시판 / 사용자가 접속한 해당 월의 좋아요가 가장 많은 순으로 1~3위 표시 기능
+- 이달의 레시피 게시판
+  + 사용자가 접속한 해당 월의 좋아요가 가장 많은 순으로 1~3위 표시 기능
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/107044598/214464566-88600d94-128e-4993-9fdb-cb6d48cae17d.png">
